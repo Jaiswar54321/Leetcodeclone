@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 1;
+}
+html{
+    scroll-behavior: smooth;
+    background-color:rgb(26, 26, 23);
+    height: 1980px;
+
+    
+
+}
+
+#navbar{
+    background-color: rgb(37, 37, 37);
+    display:flex;
+    align-items: center;
+    position: sticky;
+    font-family:Segoe UI;
+}
+#navbar::before{
+    content: " ";
+    background-color:rgb(37, 37, 37);
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+
+}
+
+ul{
+    display: flex;
+}
+#ul item8{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#navbar ul li{
+    background-color:;
+    color: white;
+    text-align:;
+    list-style: none;  /*for removing bindu*/
+    margin: 8px;
+    padding: 8px;
+}
+#logo3 img{
+    border-radius: 38px;
+    margin-left: 25px;
+
+}
+#logo4 img{
+    border-radius: 38px;
+    margin-left: 15px;
+
+}
+#logo5 img{
+    border-radius: 35px;
+    margin-left: 15px;
+
+}
+#logo2 img{
+    border-radius:170px;
+
+}
+#form2 .li{
+    background-color:aqua;
+    height: 20px;
+    width: 10px;
+}
+#home img{
+    margin:  70px 10px;
+    border-radius: 10px;
+}
+#services{
+    margin: 0px;
+    display:flex;
+}
+#services .box .text{
+    color: aliceblue;
+}
+#services .box{
+    height: 90px;
+    width: 260px;
+    display: flex;
+    margin: 0px 11px;
+    border: 2px solid rgb(32, 32, 32);
+    background-color: rgb(37, 37, 37);
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+#study .h2{
+    margin: 10px;
+    padding: 10px;
+}
+#services2{
+    margin: 0px;
+    display:flex;
+}
+#services2 .box .text{
+    color: aliceblue;
+}
+#services2 .box{
+    height: 90px;
+    width: 260px;
+    display: flex;
+    margin: 0px 11px;
+    border: 2px solid rgb(32, 32, 32);
+    background-color: rgb(37, 37, 37);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#form {
+    margin-right: 30px;
+    height: 445px;
+    width: 270px;
+    background-color:rgb(37, 37, 37);
+    border-radius: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#form .month{
+    margin: 10px 5px;
+    color: aliceblue;
+    font-size: 85%;
+}
+#form .month .p2{
+    padding: 0px;
+
+}
+#form .month .tb{
+  margin-top: 20px;
+  display: flex;
+  row-gap: 10px;
+
+}
+#problem .box1{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 10px;
+    font-family:fangsong;
+
+}
+#problem2 .box2{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 10px;
+    font-family:fangsong;
+  
+}
+#navbar2 ul li{
+    background-color:;
+    color: white;
+    text-align:;
+    list-style: none;  /*for removing bindu*/
+    margin-top:  100px;
+   
+}
+#form3 .box11{
+ 
+    color:aliceblue;
+    height: 445px;
+    width: 270px;
+    background-color:rgb(37, 37, 37);
+    border-radius: 10px;
+    margin-left: 905px;
+    margin-top: -1140px;
+    
+}
